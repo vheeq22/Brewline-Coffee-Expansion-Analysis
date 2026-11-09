@@ -45,7 +45,7 @@ Sales growth rate: Calculate the percentage growth (or decline) in sales over di
 
 **10. Market Potential Analysis**
 
-Identify top 4 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer.
+Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer.
 
 # Recommendations
 After analyzing the data, the recommended top four cities for new store openings are:
