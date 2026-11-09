@@ -170,7 +170,7 @@ FROM
     a.month,
     a.year,
     a.total_sale as cr_month_sale,
-    LAG(a.total_sale, 1) OVER(PARTITION BY a.city_name ORDER BY  a.year) as last_month_sale
+    LAG(a.total_sale, 1) OVER(PARTITION BY a.city_name ORDER BY  a.year, a.month) as last_month_sale
 FROM 
 (
 SELECT
