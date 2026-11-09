@@ -1,2 +1,92 @@
-# Brewline-Coffee-Expansion-Analysis
-An Coffee business analysis for expansion and opening of other outlets in various cities
+# Brewline Coffee Expansion Project
+SQL Analysis of Sales Performance and Market Expansion Opportunities in India
+
+# Objectives
+The goal of this project is to analyze the sales data of Brewline Coffee, a company that has been selling its products online since January 2023, and to recommend the top four major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+
+# Key Questions
+**1. Coffee Consumers Count**
+
+How many people in each city are estimated to consume coffee, given that 25% of the population does?
+
+**2. Total Revenue from Coffee Sales**
+
+What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+
+**3. Sales Count for Each Product**
+
+How many units of each coffee product have been sold?
+
+**4. Average Sales Amount per City**
+
+What is the average sales amount per customer in each city?
+
+**5. City Population and Coffee Consumers**
+
+Provide a list of cities along with their populations and estimated coffee consumers.
+
+**6. Top Selling Products by City**
+
+What are the top 3 selling products in each city based on sales volume?
+
+**7. Customer Segmentation by City**
+
+How many unique customers are there in each city who have purchased coffee products?
+
+**8. Average Sale vs Rent**
+
+Find each city and their average sale per customer and avg rent per customer
+
+**9. Monthly Sales Growth**
+
+Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly) by each city.
+
+**10. Market Potential Analysis**
+
+Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer.
+
+# Recommendations
+After analyzing the data, the recommended top three cities for new store openings are:
+
+**City 1: Pune**
+
+1.Highest total revenue.
+
+2.Highest average sale per customer.
+
+3.Average rent per customer is  very low.
+
+
+**City 2: Chennai**
+	
+1.Second highest total revenue.
+
+2.Second highest average sale per customer.
+
+3.Average rent per customer is at 407.
+
+
+**City 3:Delhi**
+
+1.Highest estimated coffee consumers at 7.7m.
+
+2.Second highest total customers at 68.
+
+3.Average rent per customer is good at 330.
+
+
+**City 4:Jaipur**
+
+1.Highest total customer at 69.
+
+2.Lowest average rent per cost at 156.
+
+3.Average sale per customer is better at 11.6k.
+
+
+
+
+
+
+
+
