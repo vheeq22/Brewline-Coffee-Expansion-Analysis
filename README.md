@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="Brewline Coffee" src="https://github.com/user-attachments/assets/3319cbc1-e64e-4d41-96b2-6d8124fcc853" />
+
 # Brewline Coffee Expansion Project
 SQL Analysis of Sales Performance and Market Expansion Opportunities in India
 
