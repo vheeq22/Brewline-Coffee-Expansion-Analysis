@@ -50,38 +50,38 @@ After analyzing the data, the recommended top three cities for new store opening
 
 **City 1: Pune**
 
-1.Highest total revenue.
+1. Highest total revenue.
 
-2.Highest average sale per customer.
+2. Highest average sale per customer.
 
-3.Average rent per customer is  very low.
+3. Average rent per customer is  very low.
 
 
 **City 2: Chennai**
 	
-1.Second highest total revenue.
+1. Second highest total revenue.
 
-2.Second highest average sale per customer.
+2. Second highest average sale per customer.
 
-3.Average rent per customer is at 407.
+3. Average rent per customer is at 407.
 
 
 **City 3:Delhi**
 
-1.Highest estimated coffee consumers at 7.7m.
+1. Highest estimated coffee consumers at 7.7m.
 
-2.Second highest total customers at 68.
+2. Second highest total customers at 68.
 
-3.Average rent per customer is good at 330.
+3. Average rent per customer is good at 330.
 
 
 **City 4:Jaipur**
 
-1.Highest total customer at 69.
+1. Highest total customer at 69.
 
-2.Lowest average rent per cost at 156.
+2. Lowest average rent per cost at 156.
 
-3.Average sale per customer is better at 11.6k.
+3. Average sale per customer is better at 11.6k.
 
 
 
